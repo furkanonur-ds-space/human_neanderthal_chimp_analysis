@@ -6,7 +6,7 @@ This project performs a comparative genomic analysis to quantify the genetic sim
 Using **Python** and **BioPython**, the project utilizes Pairwise Sequence Alignment algorithms to calculate alignment scores and evolutionary divergence.
 
 ### Technologies & Libraries
-* **Python 3.x**
+* **Python**
 * **BioPython** (SeqIO, PairwiseAligner)
 * **NumPy** (Data handling)
 * **Matplotlib / Plotly** (Visualization)
