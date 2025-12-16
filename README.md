@@ -23,15 +23,12 @@ Using **Python** and **BioPython**, the project utilizes Pairwise Sequence Align
 * *(Detailed alignment scores can be found in the notebook).*
 
 ### How to Run
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
-    ```
-2.  Install requirements:
+
+1.  Install requirements:
     ```bash
     pip install biopython numpy matplotlib
     ```
-3.  Run the Jupyter Notebook:
+2.  Run the Jupyter Notebook:
     ```bash
     jupyter notebook human_neanderthal_chimp.ipynb
     ```
